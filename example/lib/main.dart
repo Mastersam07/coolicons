@@ -13,11 +13,11 @@ class MyApp extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return MaterialApp(
-      title: 'Imaterial Pro Icons Demo',
+      title: 'Coolicons Demo',
       theme: ThemeData(
         primarySwatch: Colors.blue,
       ),
-      home: const MyHomePage(title: 'Imaterial Pro Icons Demo'),
+      home: const MyHomePage(title: 'Coolicons Demo'),
     );
   }
 }

@@ -7,12 +7,14 @@
 
 This flutter package allows you to use the Coolicons icon pack.
 
+*Made from [Coolicons](https://coolicons.cool/).*
+
 ## 🎖 Installation
 
 In the `dependencies:` section of your _pubspec.yaml_, add the following line:
 
 ```yaml
-coolicons: ^
+coolicons: ^1.0.0
 ```
 
 ## 🎮 Usage
@@ -41,7 +43,7 @@ class MyAwesomeWidget extends StatelessWidget {
 View the flutter app in the `example` directory
 
 ## Screenshot
-<img src="./screenshots/1.jpg" width="400">
+<img src="https://github.com/Mastersam07/coolicons/raw/master/screenshots/1.jpg" width="400">
 
 ## 🐛 Bugs/Requests
 

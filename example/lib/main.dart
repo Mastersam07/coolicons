@@ -38,7 +38,7 @@ class _MyHomePageState extends State<MyHomePage> {
     IconModel(icon: Coolicons.apple, name: "Apple icon"),
     IconModel(icon: Coolicons.facebook, name: "Facebook icon"),
     IconModel(icon: Coolicons.google, name: "Google icon"),
-    IconModel(icon: Coolicons.youtube, name: "YouTue icon")
+    IconModel(icon: Coolicons.youtube, name: "YouTube icon")
   ];
   @override
   Widget build(BuildContext context) {

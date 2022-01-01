@@ -1,4 +1,4 @@
-library dev_icons;
+library coolicons;
 
 import "package:flutter/widgets.dart";
 
